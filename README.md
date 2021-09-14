@@ -6,13 +6,14 @@ My skills are:
 1. Machine learning algorithms
 2. Deep Learning algorithms
 3. Computer vision
-4. Image segmentations/ Image Processing
-5. Foundations in Data Science
+4. Image segmentations
+5. Image Processing
+6. Foundations in Data Science
 
 You can contact me here:
 harshitht789@gmail.com
 
-Feel free to discuss with me regarding the projects I have down, I'd feel happy to help.
+Feel free to discuss with me regarding the projects I have done, I'd feel happy to help.
 
 
 
