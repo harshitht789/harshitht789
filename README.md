@@ -7,8 +7,7 @@ My skills are in domains of:
 2. Deep Learning algorithms
 3. Computer vision
 4. Image segmentations
-5. Image Processing
-6. Foundations in Data Science
+5. Foundations in Data Science
 
 You can contact me here:
 harshitht789@gmail.com
