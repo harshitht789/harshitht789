@@ -2,7 +2,7 @@ Hi there, I’m HARSHITH REDDY T
 
 My profession is in DATA SCIENCE and I am also interested in the research of artificial intelligence. I have been doing projects on ML/DL to improve my understanding in the topic and create new algorithms for the task. 
 
-My skills are:
+My skills are in domains of:
 1. Machine learning algorithms
 2. Deep Learning algorithms
 3. Computer vision
