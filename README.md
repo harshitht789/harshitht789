@@ -6,7 +6,7 @@ My skills are:
 1. Machine learning algorithms
 2. Deep Learning algorithms
 3. Computer vision
-4. Image segmentations
+4. Image segmentations/ Image Processing
 5. Foundations in Data Science
 
 You can contact me here:
